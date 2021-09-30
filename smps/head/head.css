@@ -17,7 +17,7 @@ float:left;
 margin-top:6px;
 }
 .box-1 ul li.quick-call{
-	list-style-image:url('E:/my website/icons/call.png'); 
+	list-style-image:url('../../icons/call.png'); 
 	margin-top:7px;
     margin-left: 35px;
 	size:10px;
@@ -36,7 +36,7 @@ margin-top:6px;
 		color:#ccc;
 	}
 	.box-1 ul li.quick-email{
-		list-style-image: url('E:/my website/icons/envelope.png');
+		list-style-image: url('../../icons/envelope.png');
 	margin-top:8px;
     margin-left:35px;
 	
@@ -51,7 +51,7 @@ margin-top:6px;
 	font-weight: bolder;
 }
 .box-1 ul li.note{
-	list-style-image:url('E:/my website/icons/right-hand.png');
+	list-style-image:url('../../icons/right-hand.png');
 	margin-left:30px;
 }
 .box-1 ul li.note{
@@ -330,7 +330,7 @@ letter-spacing: 0.2em;
 	background:white;
 }
 .side-nav-ul li{
-	list-style-image: url('E:/my website/icons/play-arrow.png');
+	list-style-image: url('../../icons/play-arrow.png');
 }
 
 .side-nav-ul li ul li a{
