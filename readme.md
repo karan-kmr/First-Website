@@ -31,6 +31,6 @@ HTML and CSS
 
 <p>
 <a href="https://www.instagram.com/karancodes/">Instagram</a> &ensp;
-<a href="https://codepen.io/karan-kmr">Codepen</a> &ensp;
-<a href="https://dev.to/karankmr">Dev.to</a> &ensp;
+<a href="https://codepen.io/karan-kmr">Codesandbox</a> &ensp;
+<a href="https://codesandbox.io/u/karan-kmr">Dev.to</a> &ensp;
 </p>
