@@ -10,7 +10,7 @@ This is my first website which i created in my 10th class as my school project a
       <a href="https://codesandbox.io/s/naughty-raman-cgc5e">
           <img src="https://raw.githubusercontent.com/add-new/assets/main/editBtn.svg" width="180"  height="auto">
     </a> &ensp;
-      <a href="https://cgc5e.csb.app/" target="_blank">
+      <a href=https://b58k8.csb.app/" target="_blank">
       <img src="https://raw.githubusercontent.com/add-new/assets/main/demoBtn.svg" width="180"  height="auto">
     </a></br>
 </br>
